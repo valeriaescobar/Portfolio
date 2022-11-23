@@ -23,7 +23,6 @@ Soy una estudiante de Testing interesada en la industria teconógica y todo lo q
 * SQL
 
 ## Mi trabajo
-Aquí puedes mostrar lo que ha sido tu trabajo como tester, publicando las diferentes entregas del taller, o trabajos de testing que hayas desarrollado por tu cuenta. Por ejemplo:
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1uI48xT7pa8qZ2EONbW3QlaVgkNA4gIDvB-Qem7cQfek/edit?usp=sharing)
